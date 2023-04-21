@@ -215,7 +215,8 @@ body {
 
     /* || HEADER || */
     .header {
-        padding: 0 25% 0 25%;
+        max-width: 500px;
+        margin: 0 auto;
     }
 
     .header__title {
